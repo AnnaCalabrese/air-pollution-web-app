@@ -13,6 +13,7 @@ This was made to complete the Start2impact "Javascript Advanced" Superguide.
 - HTML5
 - CSS3
 - Javascript
+- Webpack, dotenv
 
 ## :white_check_mark: Getting started ##
 To immediately use the web application you can click on the Netlify link and it will open in a new window. <br>
