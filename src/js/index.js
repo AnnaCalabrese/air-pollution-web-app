@@ -1,4 +1,3 @@
-import css from "./style.css";
 // SELECTING ELEMENTS
 const city = document.getElementById("city");
 const btn = document.getElementById("btn");
