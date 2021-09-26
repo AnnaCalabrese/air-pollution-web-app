@@ -21,7 +21,7 @@ To immediately use the web application you can click on the Netlify link and it 
 
 
 ## :checkered_flag: Starting ##
-View it live at <a href src="https://airpollution-app.netlify.app/">https://airpollution-app.netlify.app/</a>
+View it live at <a href src="https://air-pollution-web-app.web.app/">https://air-pollution-web-app.web.app/</a>
 
 
 ## :memo: Contact ##
