@@ -9,7 +9,7 @@ This was made to complete the Start2impact "Javascript Advanced" Superguide.
 ![immagine](https://user-images.githubusercontent.com/81150424/134058165-f95e1720-ffc7-4f58-a584-bb97720679c3.png)
 
 
-## :rocket: Built with ##
+## :rocket: What I used to build this app ##
 - HTML5
 - CSS3
 - Javascript
