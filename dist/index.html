@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  <script defer src="bundle.js"></script></head>
+  <body>
+    <section>
+      <div>
+        <div class="title">
+          <h1>pollution level</h1>
+          <button id="geoBtn">
+            <img
+              style="width: 25px; height: 25px"
+              src="https://img.icons8.com/ios/50/000000/worldwide-location.png"
+            />
+          </button>
+        </div>
+
+        <div class="section-1">
+          <input
+            type="text"
+            placeholder="Insert city here.."
+            name=""
+            id="city"
+            class="inputValue"
+          />
+          <input type="submit" value="Search" id="btn" class="btn" />
+
+          <!--DISPLAY RESULTS-->
+          <div class="display">
+            <h1 id="display-name"></h1>
+            <p id="display-stats"></p>
+            <p id="display-time"></p>
+          </div>
+        </div>
+      </div>
+
+      <div class="legenda">
+        <div class="leg-item leg-item1">
+          <p>0-50 Good</p>
+        </div>
+        <div class="leg-item leg-item2">
+          <p>51-100 Moderate</p>
+        </div>
+        <div class="leg-item leg-item3">
+          <p>101-150 Unhealthy for sensitive groups</p>
+        </div>
+        <div class="leg-item leg-item4">
+          <p>150-200 Unhealthy</p>
+        </div>
+        <div class="leg-item leg-item5">
+          <p>201-300 Very Unhealthy</p>
+        </div>
+        <div class="leg-item leg-item6">
+          <p>300+ Hazardous</p>
+        </div>
+      </div>
+    </section>
+  </body>
+</html>
