@@ -16,7 +16,7 @@ This was made to complete the Start2impact "Javascript Advanced" Superguide.
 - Webpack, dotenv
 
 ## :white_check_mark: Getting started ##
-To immediately use the web application you can click on the Netlify link and it will open in a new window. <br>
+To immediately use the web application you can click on the Firebase link and it will open in a new window. <br>
 (Another option is to download this project, unzip the folder, open it and double click on the index.html file to start the application).
 
 
